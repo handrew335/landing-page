@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #1F2937;
+}
+
+.nav-list {
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+}
+
+.nav-list li {
+    text-decoration: none;
+}
